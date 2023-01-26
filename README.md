@@ -19,6 +19,7 @@ pip install opencv-python
 pip install tqdm
 pip install scikit-learn
 pip install transformers
+pip install evaluate
 ```
 
 ## DACON 손동작 제어 인식 AI 경진대회 코드 사용법
