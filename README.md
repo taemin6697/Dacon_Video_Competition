@@ -3,7 +3,7 @@
 ## 팀원
 ### 한성대학교_김태민, 3o3
 
-##사용 모델 및 GPU
+## 사용 모델 및 GPU
 ### Timesformer(https://arxiv.org/abs/2102.05095)
 (https://huggingface.co/facebook/timesformer-base-finetuned-k400)
 
