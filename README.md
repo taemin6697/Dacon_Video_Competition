@@ -41,7 +41,7 @@ pip install evaluate
 │   ├── train.csv
 │   ├── test.csv
 │   ├── sample_submission.csv
-│   ├── timesformer-base-ssv2 (가중치파일)
+│   ├── times (가중치파일)
 │   ├── train (데이터)
 │   └── test (데이터)
 
