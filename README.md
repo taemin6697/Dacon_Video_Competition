@@ -41,7 +41,7 @@ pip install evaluate
 │   ├── train.csv
 │   ├── test.csv
 │   ├── sample_submission.csv
-│   ├── times (가중치파일) (https://drive.google.com/file/d/1eehUHbjvLWtTdBKFN9He0QijUIcii25d/view?usp=share_link)
+│   ├── times (가중치파일) (https://drive.google.com/drive/folders/1lByJZrsdGp2rn8zmvQmt7SJoat3w9HgE?usp=share_link)
 │   ├── train (데이터)
 │   └── test (데이터)
 
